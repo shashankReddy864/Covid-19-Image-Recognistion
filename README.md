@@ -1,25 +1,23 @@
 # Covid-19-Image-Recognistion
 
-**Business Objective:**
+# **Business Objective:**
 In the earlier days of covid, it was tiresome for the doctors and even the people to identify if they were Covid positive or not unless they faced any symptoms like cough, fever, body pains, etc. Doctors to determine if a patient is effected or not used to doing a lot of blood tests and Radiology scans like CT scans, MRI scans. However, with the scans, it would be hard for the doctors to identify if a patient is tested positive or not just by looking at an X-ray with a naked eye. Even if one does identify covid by looking at the x rays- it would go wrong because pneumonia and covid Xrays look alike. 
 
 
 
-**Aim:**
+# **Aim:**
 Detecting if a Patient is having Covid or Phnumonia or is normal from the disease by the implementation of Convolutional Neural Networks.
 
 
 
-**Dataset Description:**
+# **Dataset Description:**
 Dataset consists of three directories Covid, Normal, Viral Pheumonia.
 
 Dataset size-200MB over 3000 images.
 
-The Dataset taken from kaggle:
 
 
-
-**Tech Stack:**
+# **Tech Stack:**
 
 Python
 
@@ -31,7 +29,7 @@ Methodology: Convolutional Neural Networks, Deep Learning
 
 
 
-**Approach:**
+# **Approach:**
 
 1.Importing the dataset from kaggle
 
